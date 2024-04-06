@@ -19,7 +19,7 @@ Dependencies:
 
     Python 3.x
     pandas library
-    xlrd library (for reading Excel files)
+    openpyxl library (for reading Excel files)
 
 Potential Enhancements:
 
